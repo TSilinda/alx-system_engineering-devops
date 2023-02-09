@@ -1,0 +1,2 @@
+#!/bin/bashsudo
+find . -type d -exec chmod ugo=+x {} \
